@@ -1,6 +1,6 @@
 function NavBar() {
   return (
-    <div className='w-screen flex justify-between p-3 font-dmSans py-5 fixed bg-seaBlue text-white'>
+    <div className='w-full flex justify-between p-3 font-dmSans py-5 fixed bg-seaBlue text-white'>
       <a href='#home' className='text-xl ml-10'>
         Seng Kitt's Personal Website
       </a>
